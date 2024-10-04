@@ -14,6 +14,6 @@ def multi(a,b):
 
 
 
-print(sumar)
-print(restar)
-print(multi)
+print(sumar(6,3))
+print(restar(5,1))
+print(multi(3,9))

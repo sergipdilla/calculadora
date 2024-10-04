@@ -16,4 +16,4 @@ def multi(a,b):
 
 print(sumar)
 print(restar)
-print(multi()
+print(multi)
